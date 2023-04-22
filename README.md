@@ -1,6 +1,6 @@
 [![Shield](https://img.shields.io/badge/Made%20with-love-red?style=for-the-badge&logo=Appwrite)](https://discord.gg/NBpRH5x2sx)
 [![Shield2](https://img.shields.io/badge/Thanks-BlueWxll'%239376-9cf?style=for-the-badge&logo=Accenture)](https://opensource.org/licenses/)
-[![Shield3](https://img.shields.io/badge/With-SQL-blue?style=for-the-badge&logo=Adminer)](lhttps://inktr.ee/linqfy)
+[![Shield3](https://img.shields.io/badge/With-SQLITE3-blue?style=for-the-badge&logo=Adminer)](lhttps://inktr.ee/linqfy)
 
 
 # ChaosGen v1 (Using SQL)
